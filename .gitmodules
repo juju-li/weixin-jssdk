@@ -1,3 +1,4 @@
 [submodule "photos"]
 	path = photos
 	url = git@github.com:juju-li/photos.git
+	branch = newFeature
